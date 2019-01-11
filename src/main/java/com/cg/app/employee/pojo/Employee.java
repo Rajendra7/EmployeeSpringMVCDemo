@@ -1,4 +1,4 @@
-package com.cg.app.employee.controller;
+package com.cg.app.employee.pojo;
 
 public class Employee {
 	
